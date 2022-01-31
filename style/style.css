@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    list-style-type: ;
+}
+.body {
+    max-width: 100%;
+    width: 1140px;
+}
+.ul {
+    text-decoration: none;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header__nav-list {
+    display: flex;
+    justify-content: center;
+    
+}
+.header__content-title {
+    flex-direction: column;
+    margin-bottom: 60px;
+}
+.header__content-text {
+    font-size: 16px;
+    line-height: 26px;
+}
+.header__content-btn {
+    border-radius: #34547A solid;
+}
